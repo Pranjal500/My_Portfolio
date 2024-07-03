@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/git1.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "My github profile";
 
 /**
  * Project list
